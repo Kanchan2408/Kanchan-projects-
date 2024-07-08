@@ -22,4 +22,6 @@ Here is my Power BI journey, transforming raw data into insights:
 *Project Overview:*
 Every raw dataset was analyzed and refined through data cleaning using the Power Query window. Various DAX (Data Analysis Expressions) and measure functions were utilized to calculate KPIs accurately. This process was crucial for creating effective visualizations that communicate actionable insights.
 
+I believe continuous learning and practice are key to ongoing improvement. I'm open to any piece of advice that you might have for my betterment and improvement that could contribute to my growth.
+
 Thank You
