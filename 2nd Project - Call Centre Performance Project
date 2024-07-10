@@ -1,0 +1,24 @@
+The aim is to provide insights into various key performance indicators (KPIs). The report leverages DAX functions (used IF, COUNT, SUM, DIVIDE) for data analysis and visualization, ensuring accurate and actionable insights.
+
+The Raw Data Table includes the following columns: CALLER ID, AGENT, DATE,TIME, TOPIC, ANSWERED, RESOLVED, SPEED OF ANSWER IN SECONDS, AVG. TALK DURATION, SATISFACTION RATE, Data Cleaning,Data cleaning is a crucial step to ensure the accuracy and reliability of the report. The following steps were taken to clean the data:
+
+Replacement of all null or blank values with 0.
+Changed data types wherever required.
+Extracted seconds and minutes from avg. talk duration and created a new column.
+Added different columns to make the data more relevant.
+
+KPIs
+Calculated the total number of calls.
+A new column was added to calculate the total number of calls answered and the total number of calls rejected.
+Calculated the total percentage of calls answered and the total percentage of calls rejected.
+A new column was added to calculate how many calls were resolved and not resolved.
+Identified the top agent who answered the most calls.
+Identified the top agent who received the highest satisfaction rate.
+Displayed the total number of calls by topic.
+Calculated the duration of calls for each agent.
+Displayed total calls by days and months for the year 2021.
+Used slicers to interact with other charts by month and day.
+Provided the overall 2021 performance ratings using a custom column chart by logging into more visuals.
+
+Visualization
+The report includes various visualizations to provide clear and actionable insights, such as pie charts, new slicers, column charts, cards, and area charts.
