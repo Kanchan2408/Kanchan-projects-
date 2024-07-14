@@ -1,0 +1,23 @@
+Which Neighbourhood group there is maximum number of properties listed ?
+Which host has maximum number of properties listed ?	
+Which host has maximum properties listed in neighbourhood groups having maximum properties listed ?
+What is the average price in different properties listed ?
+What is the most prefered room type in the every neighbourhood groups ?
+Total availability of properties having different room type?
+Which one is the busiest host ?
+Which property has maximum number of reviews ?
+
+Analysis on the following as well :
+
+* Count of reviews per month
+
+* Show total room types
+
+* Find the total number of shared rooms, private rooms, entire      home/apt
+
+* Create a slicer for dates to show last reviewed information
+
+* The prices for each neighborhood group
+
+* Create a table for host to check the count of properties been listed for each neighborhood group.
+
